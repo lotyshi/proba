@@ -4,11 +4,8 @@
 
 	<groupId>lotyshi-proba</groupId>
 	<artifactId>proba</artifactId>
-<<<<<<< HEAD
 	<version>0.0.6-SNAPSHOT</version>
-=======
-	<version>0.0.8-SNAPSHOT</version>
->>>>>>> 4394b2b... TEST-1 have fun
+
 	<packaging>jar</packaging>
 
 	<name>proba</name>
